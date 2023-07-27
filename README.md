@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lnkmbj
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I'm interested in front-end development
+- 💞️ I’m looking to create many projects
 - 📫 How to reach me @lnkmbj on majority of platform
 
 <!---
